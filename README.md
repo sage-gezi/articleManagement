@@ -23,15 +23,15 @@
 
 #### 项目截图：
 
-![截屏2024-07-13 11.09.34](readme-img/截屏2024-07-13 11.09.34.png)
+![](https://github.com/sage-gezi/articleManagement/blob/master/readme-img/%E6%88%AA%E5%B1%8F2024-07-13%2011.09.34.png?raw=true)
 
-![截屏2024-07-13 11.07.17](readme-img/截屏2024-07-13 11.07.17.png)
+![截屏2024-07-13 11.07.17](https://github.com/sage-gezi/articleManagement/blob/master/readme-img/%E6%88%AA%E5%B1%8F2024-07-13%2011.07.17.png?raw=true)
 
-![截屏2024-07-13 11.09.20](readme-img/截屏2024-07-13 11.09.20.png)
+![截屏2024-07-13 11.09.20](https://github.com/sage-gezi/articleManagement/blob/master/readme-img/%E6%88%AA%E5%B1%8F2024-07-13%2011.09.20.png?raw=true)
 
-![截屏2024-07-13 11.04.55](readme-img/截屏2024-07-13 11.04.55.png)
+![截屏2024-07-13 11.04.55](https://github.com/sage-gezi/articleManagement/blob/master/readme-img/%E6%88%AA%E5%B1%8F2024-07-13%2011.04.55.png?raw=true)
 
-![截屏2024-07-13 11.05.20](readme-img/截屏2024-07-13 11.05.20.png)
+![截屏2024-07-13 11.05.20](https://github.com/sage-gezi/articleManagement/blob/master/readme-img/%E6%88%AA%E5%B1%8F2024-07-13%2011.05.20.png?raw=true)
 
 ---
 
