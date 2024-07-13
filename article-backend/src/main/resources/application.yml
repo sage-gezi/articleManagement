@@ -1,0 +1,13 @@
+#配置自己的redis和SQLserver
+server:
+  port: 8089
+spring:
+  datasource:
+    url:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    username:
+    password:
+  data:
+    redis:
+      host:
+      port:
